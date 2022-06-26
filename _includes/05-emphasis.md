@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Stuff
+
+Below is a list of **names**
+### Girl Names
+-Ruby
+-Jane
+-Jennifer
+
+### Boy Names
+-Robert
+-Josh
+-Alan
